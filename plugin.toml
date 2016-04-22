@@ -1,0 +1,4 @@
+[plugin]
+description = "dokku minio service plugin"
+version = "0.0.1"
+[plugin.config]
